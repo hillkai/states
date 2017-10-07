@@ -1,0 +1,22 @@
+Oregon 1200 2
+Benton 530 600 300 1 Corvallis
+Lane 355 555 432.7 2 Eugene Springfield
+South_Carolina 1400 2
+Anderson 550 790 500 2 Anderson Pendleton
+Pickens 600 300 220 2 Clemson Pickens
+Washington 1300 1
+Clark 200 600 100 1 Vancouver
+California 400 1
+Orange 300 400 100 1 LA
+Alaska 500 1
+Winston 500 500 500 1 Anchorage
+Arizona 400 1
+Yuma 230 233 120 1 Phoenix
+Florida 1000 1
+Flagler 300 300 400 1 Orlando
+Hawaii 1200 1
+Maui 200 200 300 1 Lahina
+Idaho 200 1
+Twin_Falls 1200 200 300 1 Twin_falls
+Indiana 1200 1
+Dearborn 100 230 300 1 Indianapolis 
